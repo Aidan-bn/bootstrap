@@ -1,1 +1,47 @@
-# bootstrap
+# Bootstrap 
+
+> This is a simple web develoment project for Microverse created using simple HTML(Hyper text mark-up Language.) and Bootstrap (Cascading Style Sheet framework) .
+
+## Built With
+
+- Major languages: html & css
+- Frameworks: Bootstrap 5
+
+## Live Demo (if available)
+
+[Live Demo Link](https://aidan-bn.github.io/)
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+👤 **Author1**
+
+- GitHub: [@aidan-bn](https://github.com/aidan-bn)
+- Twitter: [@aidan-bn](https://twitter.com/aidan-bn)
+- LinkedIn: [Aidan-bn](https://linkedin.com/in/aidan-bn)
+
+👤 **Author2**
+
+- GitHub: [@aidan-bn](https://github.com/aidan-bn)
+- Twitter: [@aidan-bn](https://twitter.com/aidan-bn)
+- LinkedIn: [Aidan-bn](https://linkedin.com/in/aidan-bn)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Microverse
+- My coding partners and code reviwers
+- Figma
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
